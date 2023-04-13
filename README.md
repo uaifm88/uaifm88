@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @uaifm88
-- 👀 I’m interested in ...led tapes, artnet and madmapper arduino controls
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oii! Sou Felipe! tudo bem?
+- 👀 Sou graduado em Administração / Cursando Ciências da Computação. Foco em Dev Full Stack e Cibersegurança
+- 🌱 Atualmente estudo Eletrôtécnica!!
+- 💞️ Amo Tecnologia 
+- 📫 pradoprado.1112@gmail.com
+
+Rafa-HTML Rafa-CSS Rafa-Js Rafa-Vs Rafa-Vs
 
 <!---
 uaifm88/uaifm88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
