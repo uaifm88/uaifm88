@@ -1,6 +1,6 @@
 - 👋 Oii! Sou Felipe! tudo bem?
 - 👀 Sou graduado em Administração / Cursando Ciências da Computação. Foco em Dev Full Stack e Cibersegurança
-- 🌱 Atualmente estudo Eletrôtécnica!!
+- 🌱 Atualmente estudo Eletrotécnica!!
 - 💞️ Amo Tecnologia 
 - 📫 pradoprado.1112@gmail.com
 
